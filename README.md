@@ -76,7 +76,7 @@
 # 克隆项目
 git clone -b vue3.0-antdv https://github.com/chuzhixin/vue-admin-better.git
 # 安装依赖
-npm i
+npm i --legacy-peer-deps
 # 本地开发 启动项目
 npm run serve
 ```
@@ -87,7 +87,7 @@ npm run serve
 # 克隆项目
 git clone  https://github.com/chuzhixin/vue-admin-arco.git
 # 安装依赖
-npm i
+npm i --legacy-peer-deps
 # 本地开发 启动项目
 npm run dev
 ```
